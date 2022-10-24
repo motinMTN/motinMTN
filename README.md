@@ -31,8 +31,7 @@ ___ -->
 
   <p align="center">
     Hi, I’m Juan Luis <br/>
-    I’m interested in Web Development <br/>
-    I’m currently learning VueJs <br/>
+    I’m interested in Web Development <br/>    
     I’m looking to collaborate with other users or an organization.<br/>
   </p>
   
